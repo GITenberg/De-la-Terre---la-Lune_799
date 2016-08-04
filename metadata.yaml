@@ -1,0 +1,40 @@
+_repo: De-la-Terre---la-Lune_799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Science fiction
+- Science Fiction
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '799'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Moon -- Fiction'
+- !lcsh 'Manned space flight -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- GITenberg
+title: De la Terre à la Lune
+url: http://www.gutenberg.org/ebooks/799
